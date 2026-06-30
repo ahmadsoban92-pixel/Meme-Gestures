@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local downloaded assets folder
+memes/
+
+# Virtual environments
+venv/
+.venv/
